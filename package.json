@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"husky": "^8.0.3",
+		"prettier": "^2.8.8"
+	},
+	"scripts": {
+		"prepare": "husky install",
+		"check-fmt": "prettier --check . '!.dev'",
+		"apply-fmt": "prettier --write . '!.dev'"
+	}
+}
