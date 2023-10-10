@@ -4,7 +4,8 @@ A project for the logging of power usage and calculation of equivalent co2
 emissions with data provided by [co2signal](https://www.co2signal.com/).
 
 This project was part of the "Programmierpraktikum: Skalierbare Systeme" summer
-semester 2023 course.
+semester 2023 course. It was released as a single final commit as wished by
+some participants.
 
 ## participants
 - Alexander Gaus ([github](https://github.com/RTUnreal))
