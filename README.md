@@ -19,7 +19,7 @@ some participants.
 - Participant 3
   - Created Admin frontend (`frontend/admin`) which is integrated into the
     ingester service
-- Participant 4
+- Pascal Reppert
   - Created Client simulator frontend (`frontend/client`)
 - Participant 5
   - Created Grafana Analysis Template which is added to Grafana with Terraform
